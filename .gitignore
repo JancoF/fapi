@@ -1,0 +1,15 @@
+
+venv/
+
+# Ignorar cachés de Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Ignorar configuraciones de entornos
+.env
+
+*.db
+
+# Ignorar archivos de log
+*.log
